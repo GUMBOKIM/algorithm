@@ -1,2 +1,5 @@
-list = [1,2,3]
-list.popleft()
+test1 = []
+
+test1[2] = 2
+
+print(test1)
